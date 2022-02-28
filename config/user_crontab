@@ -1,0 +1,4 @@
+
+0 8 * * * /home/pi/run/firewalla-alarm-exceptions/script/create_alarm_exception.sh
+
+0 22 * * * /home/pi/run/firewalla-alarm-exceptions/script/delete_alarm_exception.sh

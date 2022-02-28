@@ -1,0 +1,2 @@
+type=ALARM_VIDEO&target=ALARM_VIDEO&if.type=mac&p.device.mac=AA:B7:C3:48:3D:AA&if.target=AA:B7:C3:48:3D:AA
+type=ALARM_VIDEO&target=ALARM_VIDEO&if.type=mac&p.device.mac=XX:B7:C3:48:3D:XX&if.target=XX:B7:C3:48:3D:XX
